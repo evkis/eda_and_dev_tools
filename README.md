@@ -1,2 +1,2 @@
-# eda_and_dev_tools
-EDA AND DEV TOOLS EXAMPLE
+# Exploratory data analysis and machine learning project
+EDA and machine learning model
